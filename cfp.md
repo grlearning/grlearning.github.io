@@ -20,7 +20,7 @@ Submissions should be extended abstracts of no more than 4 pages (not including 
 
 In addition, we also welcome 1-page submissions describing open problems and challenges in the domain of graph representation learning. 
 
-All submissions must use the [**NeurIPS template**](https://github.com/ICLR/Master-Template/archive/ICLR2019.tar.gz). 
+All submissions must use the [**NeurIPS template**](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles). 
 Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable. 
 
 Accepted work will be presented as posters during the workshop and listed on this website. Additionally, a small number of papers will be selected to be presented as spotlight talks during the workshop.
