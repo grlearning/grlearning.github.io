@@ -1,0 +1,40 @@
+<span class="mobile btn-mobile-menu">
+  <i class="icon icon-list btn-mobile-menu__icon"></i>
+  <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+</span>
+
+<header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/cover.png)">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
+          <!--img src="{{ site.baseurl }}/images/profile.png" class="user-image" alt="RLGM"-->
+          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/overview" title="overview" class="blog-button">Overview</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/cfp" title="cfp" class="blog-button">Call for Papers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/schedule" title="schedule" class="blog-button"><b>Schedule</b></a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/speakers" title="speakers" class="blog-button">Speakers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/organizers" title="organizers" class="blog-button">Organizers</a></li>
+              <!-- li class="navigation__item"><a href="{{ site.baseurl }}/pcom" title="pcom" class="blog-button">Program Committee</a></li><--!>
+            </ul>
+          </nav>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="panel-cover--overlay"></div>
+  </div>
+</header>
