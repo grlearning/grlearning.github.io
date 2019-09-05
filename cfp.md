@@ -6,11 +6,11 @@ permalink: /cfp/
 
 **Submission deadline:** Monday, 9 September 2019 (23:59 AoE)
 
-**Author notification:** TBD
+**Author notification:** September 31st
 
-**Camera ready deadline:** TBD
+**Camera ready deadline:** October 14th (23:59 AoE)
 
-**Workshop:** TBD (Friday, 13 December 2019 or Saturday, 14 December 2019)
+**Workshop:** Friday, 13 December 2019, Vancouver Convention Center, Rooms 1+2+3
 
 You may submit your paper through **CMT**, by following [this link](https://cmt3.research.microsoft.com/NeurIPSGRL2019/).
 
