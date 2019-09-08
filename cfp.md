@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Monday, 9 September 2019 (23:59 AoE)
+**Submission deadline:** Thursday, 12 September 2019 (23:59 AoE)
 
 **Author notification:** September 31st
 
