@@ -4,8 +4,8 @@ title: Overview
 permalink: /overview/
 ---
 
-**Date and time:** Friday 13 December 2019 or Saturday 14 December 2019, 8:45AM -- 5:30PM<br>
-**Location:** Vancouver Convention Center, Vancouver, Canada
+**Date and time:** Friday 13 December 2019, 8:45AM -- 5:30PM<br>
+**Location:** Rooms 1+2+3, Vancouver Convention Center, Vancouver, Canada
 
 Graph-structured data is ubiquitous throughout the natural and social sciences, from telecommunication networks to quantum chemistry. Building relational inductive biases into deep learning architectures is crucial if we want systems that can learn, reason, and generalize from this kind of data. Furthermore, graphs can be seen as a natural generalization of simpler kinds of structured data (such as images), and therefore, they represent a natural avenue for the next breakthroughs in machine learning.
 
