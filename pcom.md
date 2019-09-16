@@ -43,11 +43,11 @@ permalink: /pcom/
 - **Marinka Žitnik**, *Stanford University*
 - **Matthew Overlan**, *DeepMind*
 - **Matthias Fey**, *TU Dortmund*
-- **Momchil Peychev**, *ETH Zurich*
+- **Momchil Peychev**, *ETH Zürich*
 - **Mona Jalal**, *Boston University*
 - **Min Jae Song**,	*New York University*
 - **Nick Choma**, *New York University*
-- **Nikola Jovanović**, *ETH Zurich*
+- **Nikola Jovanović**, *ETH Zürich*
 - **Patrick Fernandes**, *Microsoft Research Cambridge*
 - **Paul Scherer**, *University of Cambridge*
 - **Peter Battaglia**, *DeepMind*
