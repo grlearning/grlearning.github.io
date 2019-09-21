@@ -53,6 +53,7 @@ permalink: /pcom/
 - **Peter Battaglia**, *DeepMind*
 - **Rafael Gómez-Bombarelli**, *Massachusetts Institute of Technology*
 - **Razvan Pascanu**, *DeepMind*
+- **Rianne van den Berg**, *Google Research*
 - **Ryan Murphy**, *Purdue University*
 - **Sarah Parisot**, *Huawei Noah's Ark Lab*
 - **Shagun Sodhani**, *Mila*
