@@ -4,3 +4,66 @@ title: Program Committee
 permalink: /pcom/
 ---
 
+- **Aaron Solomon**, *University of Cambridge*
+- **Agnieszka Słowik**, *University of Cambridge*
+- **Alvaro Sanchez-Gonzalez**, *DeepMind*
+- **Andreea Deac**, *Mila*
+- **Arantxa Casanova**,	*Mila* 
+- **Beliz Gunel**, *Stanford University*
+- **Ben Day**, *University of Cambridge*
+- **Bruno Ribeiro**, *Purdue University*
+- **Cătălina Cangea**, *University of Cambridge*
+- **Christopher Morris**, *TU Dortmund*
+- **Christos Louizos**, *University of Amsterdam*
+- **Daniele Grattarola**, *Università della Svizzera Italiana*
+- **Danny Tarlow**, *Google Brain*
+- **David Vázquez**, *Element AI*
+- **Edgar Liberis**, *University of Oxford*
+- **Edward Smith**, *McGill University*
+- **Emanuele Rossi**, *Twitter*
+- **Felix Opolka**, *University of Cambridge*
+- **Frederic Sala**, *Stanford University*
+- **Guy Wolf**,	*Université de Montréal*
+- **Haggai Maron**,	*Weizmann Institute of Science*
+- **Hanjun Dai**,	*Georgia Institute of Technology*
+- **Helena Andrés-Terre**,	*University of Cambridge*
+- **Jian Tang**, *Mila / HEC Montréal*
+- **Jianwei Yang**, *Georgia Institute of Technology*
+- **Jiaxuan You**, *Stanford University*
+- **Jiezhong Qiu**, *Tsinghua University* 
+- **Jin Dong**, *McGill University*
+- **Joey Bose**, *McGill University*
+- **Joseph Paul Cohen**, *Mila*
+- **Keyulu Xu**, *Massachusetts Institute of Technology*
+- **Komal Teru**, *McGill University*
+- **Koustuv Sinha**, *McGill University*
+- **Lingfei Wu**, *IBM Research*
+- **Louis-Pascal Xhonneux**, *Mila/Université de Montréal*
+- **Marc Brockschmidt**, *Microsoft Research Cambridge*
+- **Marinka Žitnik**, *Stanford University*
+- **Matthew Overlan**, *DeepMind*
+- **Matthias Fey**, *TU Dortmund*
+- **Momchil Peychev**, *ETH Zürich*
+- **Mona Jalal**, *Boston University*
+- **Min Jae Song**,	*New York University*
+- **Nick Choma**, *New York University*
+- **Nikola Jovanović**, *ETH Zürich*
+- **Patrick Fernandes**, *Microsoft Research Cambridge*
+- **Paul Scherer**, *University of Cambridge*
+- **Peter Battaglia**, *DeepMind*
+- **Rafael Gómez-Bombarelli**, *Massachusetts Institute of Technology*
+- **Razvan Pascanu**, *DeepMind*
+- **Rianne van den Berg**, *Google Research*
+- **Ryan Murphy**, *Purdue University*
+- **Sarah Parisot**, *Huawei Noah's Ark Lab*
+- **Shagun Sodhani**, *Mila*
+- **Simeon Spasov**, *University of Cambridge*
+- **Tiago Azevedo**, *University of Cambridge*
+- **Vikash Singh**,	*Heal*
+- **Vinod Nair**,	*DeepMind*
+- **Xiang Ren**, *University of Southern California*
+- **Xiaowen Dong**,	*University of Oxford*
+- **Yunsheng Bai**, *University of California, Los Angeles*
+- **Yuxiao Dong**, *Microsoft Research*
+- **Zhaocheng Zhu**, *Mila*
+- **Zhengdao Chen**, *New York University*
