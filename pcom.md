@@ -21,6 +21,7 @@ permalink: /pcom/
 - **Edgar Liberis**, *University of Oxford*
 - **Edward Smith**, *McGill University*
 - **Emanuele Rossi**, *Twitter*
+- **Emma Rochetea**, *University of Cambridge*
 - **Felix Opolka**, *University of Cambridge*
 - **Frederic Sala**, *Stanford University*
 - **Guy Wolf**,	*Université de Montréal*
