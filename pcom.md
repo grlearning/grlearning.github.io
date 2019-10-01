@@ -21,6 +21,7 @@ permalink: /pcom/
 - **Edgar Liberis**, *University of Oxford*
 - **Edward Smith**, *McGill University*
 - **Emanuele Rossi**, *Twitter*
+- **Emma Rocheteau**, *University of Cambridge*
 - **Felix Opolka**, *University of Cambridge*
 - **Frederic Sala**, *Stanford University*
 - **Guy Wolf**,	*Université de Montréal*
@@ -41,18 +42,19 @@ permalink: /pcom/
 - **Louis-Pascal Xhonneux**, *Mila/Université de Montréal*
 - **Marc Brockschmidt**, *Microsoft Research Cambridge*
 - **Marinka Žitnik**, *Stanford University*
+- **Matilde Padovano**, *University of Cambridge*
 - **Matthew Overlan**, *DeepMind*
 - **Matthias Fey**, *TU Dortmund*
 - **Momchil Peychev**, *ETH Zürich*
 - **Mona Jalal**, *Boston University*
 - **Min Jae Song**,	*New York University*
 - **Nick Choma**, *New York University*
-- **Nikola Jovanović**, *ETH Zürich*
 - **Patrick Fernandes**, *Microsoft Research Cambridge*
 - **Paul Scherer**, *University of Cambridge*
 - **Peter Battaglia**, *DeepMind*
 - **Rafael Gómez-Bombarelli**, *Massachusetts Institute of Technology*
 - **Razvan Pascanu**, *DeepMind*
+- **Rex Ying**, *Stanford University*
 - **Rianne van den Berg**, *Google Research*
 - **Ryan Murphy**, *Purdue University*
 - **Sarah Parisot**, *Huawei Noah's Ark Lab*
