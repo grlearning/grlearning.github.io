@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission deadline:** Thursday, 12 September 2019 (23:59 AoE)
 
-**Author notification:** September 31st
+**Author notification:** October 1st
 
 **Camera ready deadline:** October 14th (23:59 AoE)
 
