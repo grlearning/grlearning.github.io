@@ -35,6 +35,7 @@ permalink: /pcom/
 - **Jin Dong**, *McGill University*
 - **Joey Bose**, *McGill University*
 - **Joseph Paul Cohen**, *Mila*
+- **Jun Gao**,	*University of Toronto*
 - **Keyulu Xu**, *Massachusetts Institute of Technology*
 - **Komal Teru**, *McGill University*
 - **Koustuv Sinha**, *McGill University*
@@ -45,6 +46,7 @@ permalink: /pcom/
 - **Matilde Padovano**, *University of Cambridge*
 - **Matthew Overlan**, *DeepMind*
 - **Matthias Fey**, *TU Dortmund*
+- **Maximilian Ilse**, *University of Amsterdam*
 - **Momchil Peychev**, *ETH Zürich*
 - **Mona Jalal**, *Boston University*
 - **Min Jae Song**,	*New York University*
@@ -64,6 +66,7 @@ permalink: /pcom/
 - **Vikash Singh**,	*Heal*
 - **Vinod Nair**,	*DeepMind*
 - **Xiang Ren**, *University of Southern California*
+- **Xiaohui Zeng**,	*University of Toronto*
 - **Xiaowen Dong**,	*University of Oxford*
 - **Yunsheng Bai**, *University of California, Los Angeles*
 - **Yuxiao Dong**, *Microsoft Research*
