@@ -57,7 +57,7 @@ permalink: /papers/
 * **Learning representations of Logical Formulae using Graph Neural Networks**. *Xavier Glorot, Ankit Anand, Eser Aygün, Shibl Mourad, Pushmeet Kohli and Doina Precup*
 * **SELFIES: a robust representation of semantically constrained graphs with an example application in chemistry**. *Mario Krenn, Florian Haese, Akshat Nigam, Pascal Friederich and Alan Aspuru-Guzik*
 * **Predicting Propositional Satisfiability via End-to-End Learning**. *Chris Cameron, Rex H.-G. Chen, Jason S. Hartford and Kevin Leyton-Brown*
-* **Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning**. *Binxuan Huang*
+* **Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning**. *Binxuan Huang and Kathleen M. Carley*
 * **Contextual Parameter Generation for Knowledge Graph Link Prediction**. *George I. Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell and Barnabas Poczos*
 * **DynGAN: Generative Adversarial Networks for Dynamic Network Embedding**. *Ayush Maheshwari, Ayush Goyal, Manjesh Kumar Hanawal and Ganesh Ramakrishnan*
 * **Relational Graph Representation Learning for Predicting Object Affordances**. *Alexia Toumpa and Anthony Cohn*
@@ -95,7 +95,7 @@ permalink: /papers/
 * **Graph Attentional Autoencoder for Anticancer Hyperfood Prediction**. *Shunwang Gong, Guadalupe Gonzalez, Ivan Laponogov, Kirill Veselkov and Michael Bronstein*
 * **Learning interaction patterns from surface representations of protein structure**. *Pablo Gainza Cirauqui, Freyr Sverrisson, Federico Monti, Emanuele Rodolà, Davide Boscaini, Michael Bronstein and Bruno Correia*
 * **Graph-Driven Generative Models for Heterogeneous Multi-Task Learning**. *Wenlin Wang, Hongteng Xu, Zhe Gan and Wenqi Wang*
-* **Observational causal inference using network information**. *Yan Leng, Martin Saveski, Dean Eckles and Alex 'Sandy' Pentland*
+* **Observational causal inference using network information**. *Yan Leng, Martin Saveski, Alex 'Sandy' Pentland and Dean Eckles*
 * **Relational Graph Representation Learning for Open-Domain Question Answering**. *Salvatore G. Vivona and Kaveh Hassani*
 * **Modeling Human Brain Connectomes using Structured Neural Networks**. *Uday Shankar Shanthamallu, Qunwei Li, Jayaraman Thiagarajan, Rushil Anirudh, Alan Kaplan and Peer-Timo Bremer*
 * **Neural Message Passing on High Order Paths**. *Daniel Flam-Shepherd*
