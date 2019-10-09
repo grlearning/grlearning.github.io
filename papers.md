@@ -87,7 +87,7 @@ permalink: /papers/
 * **Dynamic Embedding on Textual Networks via a Gaussian Process**. *Pengyu Cheng, Yitong Li, Xinyuan Zhang, Liqun Chen, David Carlson and Lawrence Carin*
 * **Low-Dimensional Knowledge Graph Embeddings via Hyperbolic Rotations**. *Ines Chami, Adva Wolf, Frederic Sala and Christopher Ré*
 * **Supervised Graph Attention Network for Semi-Supervised Node Classification**. *Dongkwan Kim and Alice Oh*
-* **Community detection and collaborative filtering on zero inflated graphs using spectral clustering**. *Guilherme Gomes*
+* **Community detection and collaborative filtering on zero inflated graphs using spectral clustering**. *Guilherme Gomes, Vinayak Rao and Jennifer Neville*
 * **Molecule-Augmented Attention Transformer**. *Łukasz Maziarka, Tomasz Danel, Slawomir Mucha, Krzysztof Rataj, Jacek Tabor and Stanislaw Jastrzebski*
 * **Disentangling Mixtures of Epidemics on Graphs**. *Jessica Hoffmann, Soumya Basu, Surbhi Goel and Constantine Caramanis*
 * **Transferability of Spectral Graph Convolutional Neural Networks**. *Ron Levie, Wei Huang, Lorenzo Bucci, Michael Bronstein and Gitta Kutyniok*
