@@ -104,6 +104,6 @@ permalink: /papers/
 * **Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**. *Mahmoud Khademi and Oliver Schulte*
 * **Towards an Adaptive Skip-gram Model for Network Representation Learning**. *I-Chung Hsieh and Cheng-Te Li*
 * **R-SQAIR:Relational Sequential Attend, Infer, Repeat**. *Aleksandar Stanić and Jürgen Schmidhuber*
-* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng*
+* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong and Zengfeng Huang*
 * **Learning Vertex Convolutional Networks for Graph Classification**. *Yuhang Jiao, Lixin Cui, Lu Bai and Hancock Edwin*
 
