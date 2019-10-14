@@ -53,7 +53,7 @@ permalink: /papers/
 * **Graph Structured Prediction Energy Net Algorithms**. *Colin Graber and Alexander Schwing*
 * **Meta-Graph: Few shot Link Prediction via Meta-Learning**. *Joey Bose, Ankit Jain, Piero Molino and Will Hamilton*
 * **Graph Representation Learning for Fraud Prediction: A Nearest Neighbour approach**. *Rafaël Van Belle, Sandra Mitrović and Jochen De Weerdt*
-* **Tensor Graph Neural Networks for Prediction on Dynamic Graphs**. *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha Kilmer and Stephen Becker*
+* **Tensor Graph Neural Networks for Learning on Time Varying Graphs**. *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha E. Kilmer and Haim Avron*
 * **Learning representations of Logical Formulae using Graph Neural Networks**. *Xavier Glorot, Ankit Anand, Eser Aygün, Shibl Mourad, Pushmeet Kohli and Doina Precup*
 * **SELFIES: a robust representation of semantically constrained graphs with an example application in chemistry**. *Mario Krenn, Florian Haese, Akshat Nigam, Pascal Friederich and Alan Aspuru-Guzik*
 * **Predicting Propositional Satisfiability via End-to-End Learning**. *Chris Cameron, Rex H.-G. Chen, Jason S. Hartford and Kevin Leyton-Brown*
