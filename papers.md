@@ -18,7 +18,7 @@ permalink: /papers/
 * **Disentangling structure and position in graphs**. *Komal Teru and Will Hamilton*
 * **Approximation Power of Invariant Graph Networks**. *Haggai Maron, Heli Ben-Hamu and Yaron Lipman*
 * **Intrinsic evaluation of unsupervised node embedding**. *Chi Thang Duong, Dung Trung Hoang, Quoc Viet Hung Nguyen, Ha The Hien Dang and Karl Aberer*
-* **Leveraging Time Dependency in Graphs**. *Arinbjörn Kolbeinsson and Naman Shukla*
+* **Leveraging Time Dependency in Graphs**. *Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta and Lavanya Marla*
 
 ## Poster presentations
 
@@ -53,11 +53,11 @@ permalink: /papers/
 * **Graph Structured Prediction Energy Net Algorithms**. *Colin Graber and Alexander Schwing*
 * **Meta-Graph: Few shot Link Prediction via Meta-Learning**. *Joey Bose, Ankit Jain, Piero Molino and Will Hamilton*
 * **Graph Representation Learning for Fraud Prediction: A Nearest Neighbour approach**. *Rafaël Van Belle, Sandra Mitrović and Jochen De Weerdt*
-* **Tensor Graph Neural Networks for Prediction on Dynamic Graphs**. *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha Kilmer and Stephen Becker*
+* **Tensor Graph Neural Networks for Learning on Time Varying Graphs**. *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha E. Kilmer and Haim Avron*
 * **Learning representations of Logical Formulae using Graph Neural Networks**. *Xavier Glorot, Ankit Anand, Eser Aygün, Shibl Mourad, Pushmeet Kohli and Doina Precup*
 * **SELFIES: a robust representation of semantically constrained graphs with an example application in chemistry**. *Mario Krenn, Florian Haese, Akshat Nigam, Pascal Friederich and Alan Aspuru-Guzik*
 * **Predicting Propositional Satisfiability via End-to-End Learning**. *Chris Cameron, Rex H.-G. Chen, Jason S. Hartford and Kevin Leyton-Brown*
-* **Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning**. *Binxuan Huang*
+* **Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning**. *Binxuan Huang and Kathleen M. Carley*
 * **Contextual Parameter Generation for Knowledge Graph Link Prediction**. *George I. Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell and Barnabas Poczos*
 * **DynGAN: Generative Adversarial Networks for Dynamic Network Embedding**. *Ayush Maheshwari, Ayush Goyal, Manjesh Kumar Hanawal and Ganesh Ramakrishnan*
 * **Relational Graph Representation Learning for Predicting Object Affordances**. *Alexia Toumpa and Anthony Cohn*
@@ -95,7 +95,7 @@ permalink: /papers/
 * **Graph Attentional Autoencoder for Anticancer Hyperfood Prediction**. *Shunwang Gong, Guadalupe Gonzalez, Ivan Laponogov, Kirill Veselkov and Michael Bronstein*
 * **Learning interaction patterns from surface representations of protein structure**. *Pablo Gainza Cirauqui, Freyr Sverrisson, Federico Monti, Emanuele Rodolà, Davide Boscaini, Michael Bronstein and Bruno Correia*
 * **Graph-Driven Generative Models for Heterogeneous Multi-Task Learning**. *Wenlin Wang, Hongteng Xu, Zhe Gan and Wenqi Wang*
-* **Observational causal inference using network information**. *Yan Leng, Martin Saveski, Dean Eckles and Alex 'Sandy' Pentland*
+* **Observational causal inference using network information**. *Yan Leng, Martin Saveski, Alex 'Sandy' Pentland and Dean Eckles*
 * **Relational Graph Representation Learning for Open-Domain Question Answering**. *Salvatore G. Vivona and Kaveh Hassani*
 * **Modeling Human Brain Connectomes using Structured Neural Networks**. *Uday Shankar Shanthamallu, Qunwei Li, Jayaraman Thiagarajan, Rushil Anirudh, Alan Kaplan and Peer-Timo Bremer*
 * **Neural Message Passing on High Order Paths**. *Daniel Flam-Shepherd*
@@ -104,6 +104,6 @@ permalink: /papers/
 * **Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**. *Mahmoud Khademi and Oliver Schulte*
 * **Towards an Adaptive Skip-gram Model for Network Representation Learning**. *I-Chung Hsieh and Cheng-Te Li*
 * **R-SQAIR:Relational Sequential Attend, Infer, Repeat**. *Aleksandar Stanić and Jürgen Schmidhuber*
-* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong and Zengfeng Huang*
+* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong, Zengfeng Huang and Irwin King*
 * **Learning Vertex Convolutional Networks for Graph Classification**. *Yuhang Jiao, Lixin Cui, Lu Bai and Hancock Edwin*
 
