@@ -18,7 +18,7 @@ permalink: /papers/
 * **Disentangling structure and position in graphs**. *Komal Teru and Will Hamilton*
 * **Approximation Power of Invariant Graph Networks**. *Haggai Maron, Heli Ben-Hamu and Yaron Lipman*
 * **Intrinsic evaluation of unsupervised node embedding**. *Chi Thang Duong, Dung Trung Hoang, Quoc Viet Hung Nguyen, Ha The Hien Dang and Karl Aberer*
-* **Leveraging Time Dependency in Graphs**. *Arinbjörn Kolbeinsson and Naman Shukla*
+* **Leveraging Time Dependency in Graphs**. *Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta and Lavanya Marla*
 
 ## Poster presentations
 
@@ -104,6 +104,6 @@ permalink: /papers/
 * **Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**. *Mahmoud Khademi and Oliver Schulte*
 * **Towards an Adaptive Skip-gram Model for Network Representation Learning**. *I-Chung Hsieh and Cheng-Te Li*
 * **R-SQAIR:Relational Sequential Attend, Infer, Repeat**. *Aleksandar Stanić and Jürgen Schmidhuber*
-* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong and Zengfeng Huang*
+* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong, Zengfeng Huang and Irwin King*
 * **Learning Vertex Convolutional Networks for Graph Classification**. *Yuhang Jiao, Lixin Cui, Lu Bai and Hancock Edwin*
 
