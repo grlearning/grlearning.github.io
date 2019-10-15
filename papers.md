@@ -69,7 +69,7 @@ permalink: /papers/
 * **Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks**. *Guillaume Salha, Romain Hennequin and Michalis Vazirgiannis*
 * **Differentiation of Black-Box Combinatorial Solvers**. *Marin Vlastelica Pogančić, Anselm Paulus, Vit Musil, Georg Martius and Michal Rolinek*
 * **Auto-regressive Graph Generation Modeling with Improved Evaluation Methods**. *Chia-Cheng Liu, Harris Chan and Kevin Luk*
-* **Policy Learning for Task-driven Discovery of Incomplete Networks**. *Peter Morales and Rajmonda Caceres*
+* **Policy Learning for Task-driven Discovery of Incomplete Networks**. *Peter Morales, Rajmonda Caceres, and Tina Eliassi-Rad*
 * **Learning interpretable disease self-representations for drug repositioning**. *Fabrizio Frasca, Diego Galeano, Guadalupe Gonzalez, Ivan Laponogov, Kirill Veselkov, Alberto Paccanaro and Michael Bronstein*
 * **Building Dynamic Knowledge Graphs from Text-based Games**. *Mikuláš Zelinka, Xingdi Yuan, Marc-Alexandre Côté, Romain Laroche and Adam Trischler*
 * **GraphMix: Improved Training of Graph Neural Networks for Semi-Supervised Learning**. *Vikas Verma, Alex M. Lamb, Juho Kannala, Yoshua Bengio and Jian Tang*
