@@ -78,7 +78,7 @@ permalink: /papers/
 * [**Network discovery using reinforcement learning**](/papers/86.pdf). *Harshavardhan P. Kamarthi, Priyesh Vijayan, Bryan Wilder, Balaraman Ravindran and Milind Tambe*
 * **A quantum hardware-induced graph kernel based on Gaussian Boson Sampling**. *Maria Schuld, Kamil Bradler, Robert Israel, Daiqin Su and Brajesh Gupt*
 * [**Neural Execution of Graph Algorithms**](/papers/88.pdf). *Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell and Charles Blundell*
-* [**Short Text Classification using Graph Convolutional Network**](/papers/90.pdf). *Kshitij Tayal, Nikhil Rao, Karthik Subbian and Saurabh Agrawal*
+* **Short Text Classification using Graph Convolutional Network**. *Kshitij Tayal, Nikhil Rao, Karthik Subbian and Saurabh Agrawal*
 * [**Logical Expressiveness of Graph Neural Networks**](/papers/92.pdf). *Mikaël Monet, Jorge Pérez, Juan Reutter, Egor Kostylev, Pablo Barceló and Juan Pablo Silva*
 * [**Dynamic Network Representation Learning via Gaussian Embedding**](/papers/93.pdf). *Yulong Pei, Xin Du, George Fletcher and Mykola Pechenizkiy*
 * [**Tri-graph Information Propagation for Polypharmacy Side Effect Prediction**](/papers/94.pdf). *Hao Xu, Shengqi Sang and Haiping Lu*
