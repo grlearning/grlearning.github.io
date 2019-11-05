@@ -27,7 +27,7 @@ permalink: /papers/
 * [**Applying Graph Neural Networks on Heterogeneous Nodes and Edge Features**](/papers/6.pdf). *Frederik Diehl*
 * [**Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model**](/papers/8.pdf). *Yu Chen, Lingfei Wu and Mohammed Zaki*
 * [**Convolution, attention and structure embedding**](/papers/11.pdf). *Jean-Marc Andreoli*
-* [**Disentangling Interpretable Generative Parameters of Random and Real-World Graphs**](/papers/12.pdf). *Niklas Stoehr, Marc Brockschmidt, Jan Stuehmer and Emine Yilmaz*
+* [**Disentangling Interpretable Generative Parameters of Random and Real-World Graphs**](/papers/12.pdf). *Niklas Stoehr, Emine Yilmaz, Marc Brockschmidt and Jan Stuehmer*
 * [**Graph Few-shot Learning via Knowledge Transfer**](/papers/13.pdf). *Huaxiu Yao, Chuxu Zhang, Ying Wei, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh Chawla and Zhenhui (Jessie) Li*
 * [**Group Representation Theory for Knowledge Graph Embedding**](/papers/15.pdf). *Chen Cai*
 * [**Graph Generation with Variational Recurrent Neural Network**](/papers/17.pdf). *Shih-Yang Su, Hossein Hajimirsadeghi and Greg Mori*
