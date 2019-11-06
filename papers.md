@@ -5,15 +5,12 @@ permalink: /papers/
 ---
 
 ## Contributed talks
-
 ### Original research
-
 * **Pre-training Graph Neural Networks**. *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Žitnik, Vijay S. Pande, Percy Liang and Jure Leskovec*
 * [**Variational Graph Convolutional Networks**](/papers/128.pdf). *Louis C. Tiao, Pantelis Elinas, Harrison Tri Tue Nguyen and Edwin V. Bonilla*
 * **Probabilistic End-to-End Graph-based Semi-Supervised Learning**. *Mariana Vargas Vieyra, Aurélien Bellet and Pascal Denis*
 
 ### Open problems and challenges
-
 * [**Between the Interaction of Graph Neural Networks and Semantic Web**](/papers/7.pdf). *Francisco Xavier Sumba Toral*
 * **Disentangling structure and position in graphs**. *Komal Teru and Will Hamilton*
 * [**Approximation Power of Invariant Graph Networks**](/papers/31.pdf). *Haggai Maron, Heli Ben-Hamu and Yaron Lipman*
@@ -21,7 +18,6 @@ permalink: /papers/
 * [**Leveraging Time Dependency in Graphs**](/papers/137.pdf). *Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta and Lavanya Marla*
 
 ## Poster presentations
-
 * [**Node2Motif: Hierarchical Invariant Embeddings of Structured Graphs Using the Bispectrum**](/papers/2.pdf). *Sophia Sanborn, Ram Mehta, Noah Shutty and Christopher Hillar*
 * [**Learning Hierarchical Representations in Kinematic Space**](/papers/3.pdf). *Adarsh Jamadandi and Uma Mudenagudi*
 * [**Applying Graph Neural Networks on Heterogeneous Nodes and Edge Features**](/papers/6.pdf). *Frederik Diehl*
