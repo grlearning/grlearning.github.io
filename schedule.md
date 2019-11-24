@@ -8,7 +8,7 @@ permalink: /schedule/
 
 9:00--9:30AM: **Invited talk**: *Marco Gori*
 
-9:30--10:00AM: **Invited talk**: *Marinka Žitnik*
+9:30--10:00AM: **Invited talk**: *Peter Battaglia* 
 
 10:00--10:30AM: **Contributed talks**: *Open challenges*
 
@@ -30,6 +30,6 @@ permalink: /schedule/
 
 4:15--4:45PM: **Invited talk**: *Bistra Dilkina*
 
-4:45--5:15PM: **Invited talk**: *Peter Battaglia*
+4:45--5:15PM: **Invited talk**: *Marinka Žitnik*
 
 5:15--5:30PM: *Closing remarks*

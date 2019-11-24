@@ -17,7 +17,7 @@ permalink: /papers/
 * **Intrinsic evaluation of unsupervised node embedding**. *Chi Thang Duong, Dung Trung Hoang, Quoc Viet Hung Nguyen, Ha The Hien Dang and Karl Aberer*
 * [**Leveraging Time Dependency in Graphs**](/papers/137.pdf). *Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta and Lavanya Marla*
 
-## Poster presentations
+## Poster Session #1
 * [**Node2Motif: Hierarchical Invariant Embeddings of Structured Graphs Using the Bispectrum**](/papers/2.pdf). *Sophia Sanborn, Ram Mehta, Noah Shutty and Christopher Hillar*
 * [**Learning Hierarchical Representations in Kinematic Space**](/papers/3.pdf). *Adarsh Jamadandi and Uma Mudenagudi*
 * [**Applying Graph Neural Networks on Heterogeneous Nodes and Edge Features**](/papers/6.pdf). *Frederik Diehl*
@@ -58,6 +58,8 @@ permalink: /papers/
 * [**DynGAN: Generative Adversarial Networks for Dynamic Network Embedding**](/papers/66.pdf). *Ayush Maheshwari, Ayush Goyal, Manjesh Kumar Hanawal and Ganesh Ramakrishnan*
 * [**Relational Graph Representation Learning for Predicting Object Affordances**](/papers/67.pdf). *Alexia Toumpa and Anthony Cohn*
 * [**Conditional Neural Style Transfer with Peer-Regularized Feature Transform**](/papers/68.pdf). *Jan Svoboda, Asha Anoosheh, Christian Osendorfer and Jonathan Masci*
+
+## Poster Session #2
 * [**Learning Compositional Koopman Operators for Model-Based Control**](/papers/69.pdf). *Yunzhu Li, Hao He, Jiajun Wu, Dina Katabi and Antonio Torralba*
 * [**PiNet: Attention Pooling for Graph Classification**](/papers/70.pdf). *Peter Meltzer, Marcelo Gutierrez Mallea and Peter Bentley*
 * **On Node Features for Graph Neural Networks**. *Chi Thang Duong, Thanh Dat Hoang, Ha The Hien Dang, Quoc Viet Hung Nguyen and Karl Aberer*
