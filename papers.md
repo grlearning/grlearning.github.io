@@ -58,6 +58,7 @@ permalink: /papers/
 * [**DynGAN: Generative Adversarial Networks for Dynamic Network Embedding**](/papers/66.pdf). *Ayush Maheshwari, Ayush Goyal, Manjesh Kumar Hanawal and Ganesh Ramakrishnan*
 * [**Relational Graph Representation Learning for Predicting Object Affordances**](/papers/67.pdf). *Alexia Toumpa and Anthony Cohn*
 * [**Conditional Neural Style Transfer with Peer-Regularized Feature Transform**](/papers/68.pdf). *Jan Svoboda, Asha Anoosheh, Christian Osendorfer and Jonathan Masci*
+* [**R-SQAIR: Relational Sequential Attend, Infer, Repeat**](/papers/138.pdf). *Aleksandar Stanić and Jürgen Schmidhuber*
 
 ## Poster Session #2
 * [**Learning Compositional Koopman Operators for Model-Based Control**](/papers/69.pdf). *Yunzhu Li, Hao He, Jiajun Wu, Dina Katabi and Antonio Torralba*
@@ -101,6 +102,5 @@ permalink: /papers/
 * [**Learnable Aggregator for GCN**](/papers/134.pdf). *Li Zhang and Haiping Lu*
 * [**Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**](/papers/135.pdf). *Mahmoud Khademi and Oliver Schulte*
 * [**Towards an Adaptive Skip-gram Model for Network Representation Learning**](/papers/136.pdf). *I-Chung Hsieh and Cheng-Te Li*
-* [**R-SQAIR: Relational Sequential Attend, Infer, Repeat**](/papers/138.pdf). *Aleksandar Stanić and Jürgen Schmidhuber*
 * [**Understanding Graph Neural Networks via Trajectory Analysis**](/papers/139.pdf). *Ziqiao Meng, Jin Dong, Zengfeng Huang and Irwin King*
 * **Learning Vertex Convolutional Networks for Graph Classification**. *Yuhang Jiao, Lixin Cui, Lu Bai and Hancock Edwin*
