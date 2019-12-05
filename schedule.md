@@ -32,4 +32,6 @@ permalink: /schedule/
 
 4:45--5:15PM: **Invited talk**: *Marinka Žitnik*
 
-5:15--5:30PM: *Closing remarks*
+5:15--5:30PM: **Invited presentation**: *Deep Graph Library (Zheng Zhang and Alex Smola)*
+
+5:30--5:45pm: **Invited presentation**: *Open Graph Benchmark (Jure Leskovec)* 
