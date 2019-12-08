@@ -25,7 +25,7 @@ permalink: /papers/
 * [**Convolution, attention and structure embedding**](/papers/11.pdf). *Jean-Marc Andreoli*
 * [**Disentangling Interpretable Generative Parameters of Random and Real-World Graphs**](/papers/12.pdf). *Niklas Stoehr, Emine Yilmaz, Marc Brockschmidt and Jan Stuehmer*
 * [**Graph Few-shot Learning via Knowledge Transfer**](/papers/13.pdf). *Huaxiu Yao, Chuxu Zhang, Ying Wei, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh Chawla and Zhenhui (Jessie) Li*
-* [**Group Representation Theory for Knowledge Graph Embedding**](/papers/15.pdf). *Chen Cai*
+* [**Group Representation Theory for Knowledge Graph Embedding**](/papers/15.pdf). *Chen Cai, Yufeng Cai, Mingming Sun and Zhiqiang Xu*
 * [**Graph Generation with Variational Recurrent Neural Network**](/papers/17.pdf). *Shih-Yang Su, Hossein Hajimirsadeghi and Greg Mori*
 * [**Graph Embedding VAE: A Permutation Invariant Model of Graph Structure**](/papers/19.pdf). *Tony Duan and Juho Lee*
 * [**Learning Visual Dynamics Models of Rigid Objects using Relational Inductive Biases**](/papers/20.pdf). *Fabio Ferreira, Lin Shao, Tamim Asfour and Jeannette Bohg*
