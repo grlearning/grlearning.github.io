@@ -14,7 +14,7 @@ permalink: /schedule/
 
 10:30--11:00AM: *Coffee break and discussions*
 
-11:00--11:30AM: **Invited talk**
+11:00--11:30AM: **Invited talk**: *Andrew McCallum*
 
 11:30AM--12:30PM: **Poster Session #1**
 
