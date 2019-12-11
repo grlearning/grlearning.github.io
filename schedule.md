@@ -22,9 +22,9 @@ permalink: /schedule/
 
 1:30--2:15PM: **Contributed talks**: Original research
 
-2:15--2:45PM: **Invited talk**: *Tommi Jaakkola*
+2:15--2:45PM: **Invited talk**: *Wengong Jin*
 
-2:45--3:15PM: *Panel discussion*
+2:45--3:15PM: **Presentation and discussion**: *Open Graph Benchmark (Jure Leskovec)* 
 
 3:15--4:15PM: **Poster session #2** / *Coffee break* 
 
@@ -33,5 +33,3 @@ permalink: /schedule/
 4:45--5:15PM: **Invited talk**: *Marinka Žitnik*
 
 5:15--5:30PM: **Invited presentation**: *Deep Graph Library (Zheng Zhang and Alex Smola)*
-
-5:30--5:45pm: **Invited presentation**: *Open Graph Benchmark (Jure Leskovec)* 
