@@ -4,7 +4,7 @@ title: Tentative schedule
 permalink: /schedule/
 ---
 
-8:45--9:00AM: *Opening remarks*
+8:40--9:00AM: *Opening remarks*
 
 9:00--9:30AM: **Invited talk**: *Marco Gori*
 
