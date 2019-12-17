@@ -10,7 +10,7 @@ permalink: /schedule/
 
 9:00--9:30AM: **Invited talk**: *Marco Gori* [slides](slides/gori.pdf)
 
-9:30--10:00AM: **Invited talk**: *Peter Battaglia* [slides](slides/battaglia.key) 
+9:30--10:00AM: **Invited talk**: *Peter Battaglia* [slides](slides/battaglia.pdf) 
 
 10:00--10:30AM: **Contributed talks**: *Open challenges*
 
