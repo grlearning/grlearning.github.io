@@ -102,5 +102,5 @@ permalink: /papers/
 * [**Learnable Aggregator for GCN**](/papers/134.pdf). *Li Zhang and Haiping Lu*
 * [**Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation**](/papers/135.pdf). *Mahmoud Khademi and Oliver Schulte*
 * [**Towards an Adaptive Skip-gram Model for Network Representation Learning**](/papers/136.pdf). *I-Chung Hsieh and Cheng-Te Li*
-* [**Understanding Graph Neural Networks via Trajectory Analysis**](/papers/139.pdf). *Ziqiao Meng, Jin Dong, Zengfeng Huang and Irwin King*
+* **Understanding Graph Neural Networks via Trajectory Analysis**. *Ziqiao Meng, Jin Dong, Zengfeng Huang and Irwin King*
 * **Learning Vertex Convolutional Networks for Graph Classification**. *Yuhang Jiao, Lixin Cui, Lu Bai and Hancock Edwin*
